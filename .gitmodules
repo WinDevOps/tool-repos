@@ -1,3 +1,3 @@
 [submodule "chocolatey/repo"]
 	path = chocolatey/repo
-	url = https://github.com/chocolatey/chocolatey
+	url = https://github.com/chocolatey/chocolatey.git
