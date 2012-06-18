@@ -3,4 +3,4 @@
 	url = https://github.com/chocolatey/chocolatey.git
 [submodule "Pester/repo"]
 	path = Pester/repo
-	url = https://github.com/scottmuc/Pester.git
+	url = https://github.com/scottmuc/Pester
