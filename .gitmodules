@@ -1,6 +1,6 @@
 [submodule "chocolatey/repo"]
 	path = chocolatey/repo
 	url = https://github.com/chocolatey/chocolatey.git
-[submodule "pester/repo"]
-	path = pester/repo
+[submodule "Pester/repo"]
+	path = Pester/repo
 	url = https://github.com/scottmuc/Pester.git
