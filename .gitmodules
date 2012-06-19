@@ -4,3 +4,6 @@
 [submodule "Pester/repo"]
 	path = Pester/repo
 	url = https://github.com/scottmuc/Pester
+[submodule "posh-git/repo"]
+	path = posh-git/repo
+	url = https://github.com/dahlbyk/posh-git.git
