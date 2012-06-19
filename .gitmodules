@@ -19,3 +19,6 @@
 [submodule "roundhouse/repo"]
 	path = roundhouse/repo
 	url = git://github.com/chucknorris/roundhouse.git
+[submodule "uppercut/repo"]
+	path = uppercut/repo
+	url = git://github.com/chucknorris/uppercut.git
