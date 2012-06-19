@@ -16,3 +16,6 @@
 [submodule "dropkick/repo"]
 	path = dropkick/repo
 	url = git://github.com/chucknorris/dropkick.git
+[submodule "roundhouse/repo"]
+	path = roundhouse/repo
+	url = git://github.com/chucknorris/roundhouse.git
