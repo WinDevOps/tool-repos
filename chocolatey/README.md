@@ -6,6 +6,9 @@
 "Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with windows in mind."
 Written by ferventcoder (Rob Reynolds)
 
+To host an internal chocolatey feed, or mod the chocolatey.org feed : https://github.com/chocolatey/chocolatey.org
+
+
 Here is a compiled list of chocolatey/nuget repos:
 
 https://github.com/ferventcoder/nugetpackages
