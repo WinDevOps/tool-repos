@@ -10,3 +10,6 @@
 [submodule "nuget/repo"]
 	path = nuget/repo
 	url = https://git01.codeplex.com/nuget
+[submodule "psget/repo"]
+	path = psget/repo
+	url = git://github.com/psget/psget.git
