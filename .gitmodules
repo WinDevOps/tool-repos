@@ -13,3 +13,6 @@
 [submodule "psget/repo"]
 	path = psget/repo
 	url = git://github.com/psget/psget.git
+[submodule "dropkick/repo"]
+	path = dropkick/repo
+	url = git://github.com/chucknorris/dropkick.git
