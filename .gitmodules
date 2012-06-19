@@ -7,3 +7,6 @@
 [submodule "posh-git/repo"]
 	path = posh-git/repo
 	url = https://github.com/dahlbyk/posh-git.git
+[submodule "nuget/repo"]
+	path = nuget/repo
+	url = https://git01.codeplex.com/nuget
