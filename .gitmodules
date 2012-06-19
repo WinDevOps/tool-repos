@@ -22,3 +22,6 @@
 [submodule "uppercut/repo"]
 	path = uppercut/repo
 	url = git://github.com/chucknorris/uppercut.git
+[submodule "msysgit/repo"]
+	path = msysgit/repo
+	url = git://github.com/msysgit/msysgit.git
