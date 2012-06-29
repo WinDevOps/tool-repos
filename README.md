@@ -1,3 +1,14 @@
+# TL;DR current tool-summary
+Pester - Powershell BDD testing (like rspec)
+chocolatey - Package Mgmt System based on nuget
+dropkick - Fluent based deployment
+msysgit - Git 
+nuget - like ruby gems for windows
+posh-git - git prompt for powershell
+psget - powershell module management
+roundhouse - version control for a SQL db
+uppercut - build system
+
 # tool-repos
 ==========
 
