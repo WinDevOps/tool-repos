@@ -46,3 +46,6 @@
 [submodule "puppet/modules/puppet-winclusters"]
 	path = puppet/modules/puppet-winclusters
 	url = git@github.com:rismoney/puppet-winclusters.git
+[submodule "puppet\\modules\\puppet-windowsnetwork"]
+	path = puppet\\modules\\puppet-windowsnetwork
+	url = https://github.com/rismoney/puppet-windowsnetwork.git
