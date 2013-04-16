@@ -49,3 +49,6 @@
 [submodule "puppet\\modules\\puppet-windowsnetwork"]
 	path = puppet\\modules\\puppet-windowsnetwork
 	url = https://github.com/rismoney/puppet-windowsnetwork.git
+[submodule "puppet\\modules\\puppet-windows-path"]
+	path = puppet\\modules\\puppet-windows-path
+	url = https://github.com/basti1302/puppet-windows-path.git
